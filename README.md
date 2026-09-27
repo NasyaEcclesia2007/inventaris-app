@@ -30,4 +30,16 @@ php artisan serve
 \`\`\`
 
 ## Screenshot
+
+### Login
+![Login](docs/screenshots/login.png)
+
+### Dashboard
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Daftar Produk
+![Daftar Produk](docs/screenshots/products.png)
+
+### Form Transaksi
+![Form Transaksi](docs/screenshots/transaction-form.png)
 (tempel screenshot dashboard, list produk, form transaksi di sini)
